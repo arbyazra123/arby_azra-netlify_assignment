@@ -1,1 +1,1 @@
-**Portfolio assignment & Deploying with Netlify**
+**CV assignment & Deploying with Netlify**
